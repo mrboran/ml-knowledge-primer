@@ -5,6 +5,12 @@ import scala.io.StdIn.readLine
   println(msg)
   helloInteractive()
 
+  val firstname = "Madhur"
+  val mi = 'R'
+  val lastname = "M"
+
+  println(s"Name: $lastname $mi $firstname")
+
 def helloInteractive() =
   print("Please enter your name: ")
   val name = readLine()

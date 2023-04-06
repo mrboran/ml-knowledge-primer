@@ -10,3 +10,6 @@ For more information on the sbt-dotty plugin, see the
 ## Refs
 
 Trains, classes and methods can be crated in Scala.
+
+## String interpolation
+It is a way to use variables inside strings just like the f-strings `f"smthing {var }"` in python.

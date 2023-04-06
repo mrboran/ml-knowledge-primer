@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+## Scala and vs code
+.metals/metals.mv.db
+.vscode/settings.json
