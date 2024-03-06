@@ -4,6 +4,10 @@
   ✨ In the age of GPTs understaning ML from ground up!✨
 </p>
 
-## Github Pages
 
-For deployment
+## Github Pages
+For deployment, run:
+
+```shell
+GIT_USER=<> yarn deploy
+```
