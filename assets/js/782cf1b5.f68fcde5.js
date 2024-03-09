@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4519],{732:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/ml-knowledge-primer/blog/tags/greetings","allTagsPath":"/ml-knowledge-primer/blog/tags","count":1,"unlisted":false}')}}]);
